@@ -1,0 +1,5 @@
+<#if licenseFirst??>${licenseFirst}
+</#if>
+${licensePrefix}        License: There is no free lunch.
+<#if licenseLast??>${licenseLast}
+</#if>
