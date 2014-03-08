@@ -1,16 +1,20 @@
 nikolacv
 ========
 
-Nikola's [C]urriculum [V]itae on GitHub
+    Nikola's Curriculum Vitae on GitHub
+
+    - building nikola's cv from ground up
+    - using semantic elements of HTML5
+    - only W3C conform code 
+    - wise use of javascript
+    - responsive design: suitable for mobile devices and slow connections 
+    - team work across +1000km using source control via Git
+    - learning everything more or less along the way...
+
+    let's go
+    :)
 
 
-- building nikola's cv from ground up
-- w3c conform markup (using html5 semantic elements)
-- awesome CSS3 styles to kick ass :P
-- wise use of JS code and external libs
-- team work across +1000km using source control
-- learn everything more or less along the way
-
-let's go
-:)
+    see the project wiki for more information:
+        https://github.com/irrsinn/nikolacv/wiki
 
